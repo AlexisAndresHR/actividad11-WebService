@@ -1,6 +1,5 @@
-CREATE DATABASE act11_webservice_aahr;
 
-USE act11_webservice_aahr;
+USE euwd9h6p5k605t8z;
 
 CREATE TABLE users(
     username varchar(20) NOT NULL PRIMARY KEY,
